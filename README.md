@@ -1,4 +1,4 @@
-# i2pAutoConfigMullvadBrowser
+i2pAutoConfigMullvadBrowser
 
 AutoConfig Files for i2p sync with Mullvad Browser
 
@@ -11,8 +11,10 @@ What does it do?
 - Search engine(s) adjusted for I2P.
 
 Installation
-1. Download [Mullvad Browser](https://mullvad.net/en/download/browser/) and extract the files.
-2. Download [autoconfig.js] and put it in /Browser/defaults/pref folder.
-3. Download [I2P.cfg] and put it in /Browser folder.
-4. Download [policies.json] and put it in /Browser/distribution
-5. Restart the browser if it is open.
+1. Download and install "Mullvad Browser" (https://mullvad.net/en/download/browser/) 
+2. Download and install "i2p" (https://geti2p.net)
+3. Download "autoconfig.js" and put it in /Browser/defaults/pref folder.
+4. Download "I2P.cfg" and put it in /Browser folder.
+5. Download "policies.json" and put it in /Browser/distribution
+6. Restart the browser if it is open.
+7. Welcome to the Invisible Internet.
